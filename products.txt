@@ -1,0 +1,6 @@
+[
+  {"title":"Motherboard Asrock B460m","price":15000.99,"thumbnail":"https://http2.mlstatic.com/D_NQ_NP_962418-MLA48455440669_122021-O.webp","id":1},
+  {"title":"Intel i5 10400F","price":23155.56,"thumbnail":"https://http2.mlstatic.com/D_NQ_NP_602530-MLA43003993713_082020-O.webp","id":2},
+  {"title":"RAM 2x8 HP 3600hz","price":20000.22,"thumbnail":"https://http2.mlstatic.com/D_NQ_NP_978765-MLA44698967416_012021-O.webp","id":3}
+  
+]Tarjeta de video
